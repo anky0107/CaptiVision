@@ -22,7 +22,7 @@ The Image captioning model has been implemented using the Sequential API of kera
 The overall architecture of the model is described by the following picture. It also shows the input and output dimension of each layer in the model. 
 
 <div align="center">
-  <img src="vis/model.png"><br><br>
+  <img src="imgs/model.png"><br><br>
 </div>
 
 ## Dataset
